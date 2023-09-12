@@ -1,4 +1,4 @@
-> 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [www.zhihu.com](https://www.zhihu.com/question/281363955/answer/2650473476) ![[assets/cb97999f92a53cb84d648058fbce6518_MD5.png]]思有涯
+> 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [www.zhihu.com](https://www.zhihu.com/question/281363955/answer/2650473476) ![[../assets/cb97999f92a53cb84d648058fbce6518_MD5.png]]思有涯
 
 并不是 “有了自由” 而是 “自由了”（are free）题目是对的 但很多人会引错
 
@@ -8,7 +8,7 @@
 
 而且我倒问问你 女性可以自由上街 不会被贩为性奴 基督徒和什叶派不会被劫持和折磨 没有人会被当街枪杀 想逃走就得死 这是不是确实是即使 “一无所有” 也该有的自由？你们说自由没命重要 有没有可能 他们得到的就是保命的自由？
 
-![[assets/0fa76a58dfda92fcf0386e56a540ed1b_MD5.jpg]]
+![[../assets/0fa76a58dfda92fcf0386e56a540ed1b_MD5.jpg]]
 
 再来说说一无所有 这里的一无所有显然不是说 “政府军解放了他们 所以他们一无所有了” 而是他们本来就一无所有 怎么着 他们原来在 [daesh](https://www.zhihu.com/search?q=daesh&search_source=Entity&hybrid_search_source=Entity&hybrid_search_extra=%7B%22sourceType%22%3A%22answer%22%2C%22sourceId%22%3A2650473476%7D) 治下丰衣足食？那为什么四百万跑了一百万？
 

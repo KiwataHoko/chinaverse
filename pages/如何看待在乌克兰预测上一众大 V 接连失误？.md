@@ -1,4 +1,4 @@
-> 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [www.zhihu.com](https://www.zhihu.com/question/526843267/answer/2431809803) ![[assets/99fb6d522e3975b4dfbeb28c60325a55_MD5.jpg]]III 号突击炮 G 型
+> 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [www.zhihu.com](https://www.zhihu.com/question/526843267/answer/2431809803) ![[../assets/99fb6d522e3975b4dfbeb28c60325a55_MD5.jpg]]III 号突击炮 G 型
 
 [大 V](https://www.zhihu.com/search?q=%E5%A4%A7V&search_source=Entity&hybrid_search_source=Entity&hybrid_search_extra=%7B%22sourceType%22%3A%22answer%22%2C%22sourceId%22%3A2431809803%7D) 们也是分等级的。如果以现在流行的游戏来比喻的话：
 

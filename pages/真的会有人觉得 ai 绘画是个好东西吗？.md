@@ -1,4 +1,4 @@
-> 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [www.zhihu.com](https://www.zhihu.com/question/593081591/answer/2981833875) ![[assets/6076723d4385566f7f2e90a24a3a4c61_MD5.png]]画画的花噎菜
+> 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [www.zhihu.com](https://www.zhihu.com/question/593081591/answer/2981833875) ![[../assets/6076723d4385566f7f2e90a24a3a4c61_MD5.png]]画画的花噎菜
 
 有个很讽刺的逻辑 bug
 

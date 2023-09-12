@@ -1,4 +1,4 @@
-> 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [www.zhihu.com](https://www.zhihu.com/question/379338540/answer/1265115970) ![[assets/2c754c75bd50f218d507b685f0fa9268_MD5.png]]血心
+> 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [www.zhihu.com](https://www.zhihu.com/question/379338540/answer/1265115970) ![[../assets/2c754c75bd50f218d507b685f0fa9268_MD5.png]]血心
 
 1. 污名化群众运动
 

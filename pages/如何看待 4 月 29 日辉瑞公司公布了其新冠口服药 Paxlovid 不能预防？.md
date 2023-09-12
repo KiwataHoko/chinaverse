@@ -1,4 +1,4 @@
-> 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [www.zhihu.com](https://www.zhihu.com/question/530881524/answer/2469503570) ![[assets/8199cb9f1ab06170d3d2d566d8eac4a1_MD5.jpg]]缘木求鱼​
+> 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [www.zhihu.com](https://www.zhihu.com/question/530881524/answer/2469503570) ![[../assets/8199cb9f1ab06170d3d2d566d8eac4a1_MD5.jpg]]缘木求鱼​
 
 这个问题充分反应了新闻是如何被人刻意扭曲的，新闻原稿
 
@@ -18,7 +18,7 @@
 
 假设辉瑞每组人数相等，使用的是卡方检验，如果实验组相对对照组风险下降 32% 的话，那么随着实验组的感染率上升，整个实验的 p-value 是这样变化的
 
-![[assets/9a38cf667b8bca6b0f8fd17d3e9d8e38_MD5.jpg]]
+![[../assets/9a38cf667b8bca6b0f8fd17d3e9d8e38_MD5.jpg]]
 
 我不知道辉瑞所谓的不显著是有多不显著，但是可以看出，感染率在 1% 时 p 值已经小于 0.05 了，如果严格点的话， 那么感染率 1.5% 的时候 p 值可以小于 0.01
 

@@ -1,6 +1,6 @@
 原文地址 [www.zhihu.com](https://www.zhihu.com/question/607370329/answer/3098540961) 
 
-![[assets/c24fcb6f2041b64bad0181ee9013e709_MD5.jpg]]PrtHomend
+![[../assets/c24fcb6f2041b64bad0181ee9013e709_MD5.jpg]]PrtHomend
 
 我很討厭「中國香港」這個名字
 
