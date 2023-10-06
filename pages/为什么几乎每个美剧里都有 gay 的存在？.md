@@ -1,6 +1,6 @@
-> 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [www.zhihu.com](https://www.zhihu.com/question/28697822/answer/2821851217) ![[../assets/26725aa9602db156eaafd2cb68a4a816_MD5.jpg]]皮蛋瘦肉
+> 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [www.zhihu.com](https://www.zhihu.com/question/28697822/answer/2821851217) ![26725aa9602db156eaafd2cb68a4a816_MD5](../assets/26725aa9602db156eaafd2cb68a4a816_MD5.jpg)皮蛋瘦肉
 
-[为什么几乎每个美剧里都有 gay 的存在？](https://www.zhihu.com/question/28697822/answer/2821816642)![[../assets/af2840fafefa166f54db2a7ef7844d85_MD5.png]]
+[为什么几乎每个美剧里都有 gay 的存在？](https://www.zhihu.com/question/28697822/answer/2821816642)![af2840fafefa166f54db2a7ef7844d85_MD5](../assets/af2840fafefa166f54db2a7ef7844d85_MD5.png)
 
 说 “黑人和 lgbt 的比例...... 屏幕占 90%”，那就让我们来看看 2022 今年 Netflix 最热门的 5 部英语剧 * 中主要角色 ** 的情况：
 
@@ -46,7 +46,7 @@ Dec 31, 2022: 回答被建议修改了。删除以下内容：
 
 Dec 31, 2022: 这个评论我觉得有必要解释一下：
 
-![[../assets/3a8f3dd49097611e64baed482b30034b_MD5.jpg]]
+![3a8f3dd49097611e64baed482b30034b_MD5](../assets/3a8f3dd49097611e64baed482b30034b_MD5.jpg)
 
 我现实生活中是 [data scientist](https://www.zhihu.com/search?q=data%20scientist&search_source=Entity&hybrid_search_source=Entity&hybrid_search_extra=%7B%22sourceType%22%3A%22answer%22%2C%22sourceId%22%3A2821851217%7D), 这个评论质疑我的职业操守我就有点坐不住了。
 

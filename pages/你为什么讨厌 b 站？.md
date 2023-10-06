@@ -1,10 +1,10 @@
-> 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [www.zhihu.com](https://www.zhihu.com/question/278875828/answer/2839110153) ![[../assets/5858c6b5a2343190bbe1fa02aa41fa49_MD5.jpg]]南洋林色​
+> 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [www.zhihu.com](https://www.zhihu.com/question/278875828/answer/2839110153) ![5858c6b5a2343190bbe1fa02aa41fa49_MD5](../assets/5858c6b5a2343190bbe1fa02aa41fa49_MD5.jpg)南洋林色​
 
 各种模版，持续更新
 
 首先头像得是这个
 
-![[../assets/38ef8395d3ceb0e2d6c1c9dc54468337_MD5.png]]
+![38ef8395d3ceb0e2d6c1c9dc54468337_MD5](../assets/38ef8395d3ceb0e2d6c1c9dc54468337_MD5.png)
 
 1，懂王
 
@@ -12,7 +12,7 @@
 
 然后搭配个这个表情
 
-![[../assets/2994962f0d5493fb1faf52a94303feeb_MD5.png]]
+![2994962f0d5493fb1faf52a94303feeb_MD5](../assets/2994962f0d5493fb1faf52a94303feeb_MD5.png)
 
 2，电子默哀
 
@@ -20,7 +20,7 @@
 
 然后搭配这个表情（一般连续三个）
 
-![[../assets/1f94a4e7f26999eec108a9df19dfc576_MD5.png]]
+![1f94a4e7f26999eec108a9df19dfc576_MD5](../assets/1f94a4e7f26999eec108a9df19dfc576_MD5.png)
 
 3，精神至冬国
 
@@ -28,7 +28,7 @@
 
 然后搭配这个表情（同时 @装甲妮露）
 
-![[../assets/a8f3ed889b0f45d43a209e783ee54894_MD5.png]]
+![a8f3ed889b0f45d43a209e783ee54894_MD5](../assets/a8f3ed889b0f45d43a209e783ee54894_MD5.png)
 
 4，海鲜达人
 
@@ -36,7 +36,7 @@
 
 然后搭配以下表情（这个不看语境的，逆风也发）
 
-![[../assets/f4d85296ae8bcad575911cc91478cdc5_MD5.png]]
+![f4d85296ae8bcad575911cc91478cdc5_MD5](../assets/f4d85296ae8bcad575911cc91478cdc5_MD5.png)
 
 5，[拉帮结派](https://www.zhihu.com/search?q=%E6%8B%89%E5%B8%AE%E7%BB%93%E6%B4%BE&search_source=Entity&hybrid_search_source=Entity&hybrid_search_extra=%7B%22sourceType%22%3A%22answer%22%2C%22sourceId%22%3A2839110153%7D)
 
@@ -44,7 +44,7 @@
 
 然后搭配这个表情
 
-![[../assets/a7c16a5977e10e1b08a23e53592a8724_MD5.png]]
+![a7c16a5977e10e1b08a23e53592a8724_MD5](../assets/a7c16a5977e10e1b08a23e53592a8724_MD5.png)
 
 6，念经
 
@@ -52,7 +52,7 @@
 
 然后搭配这个表情（翻来倒去得复读）
 
-![[../assets/d0576d9795f2d70eb33c58a31b4d4a60_MD5.png]]
+![d0576d9795f2d70eb33c58a31b4d4a60_MD5](../assets/d0576d9795f2d70eb33c58a31b4d4a60_MD5.png)
 
 7，给人加戏
 
@@ -60,7 +60,7 @@
 
 然后搭配这个表情（[赛博](https://www.zhihu.com/search?q=%E8%B5%9B%E5%8D%9A&search_source=Entity&hybrid_search_source=Entity&hybrid_search_extra=%7B%22sourceType%22%3A%22answer%22%2C%22sourceId%22%3A2839110153%7D)认亲）
 
-![[../assets/2eb1dff3416e06f4ffe16f16d0d7aad3_MD5.png]]
+![2eb1dff3416e06f4ffe16f16d0d7aad3_MD5](../assets/2eb1dff3416e06f4ffe16f16d0d7aad3_MD5.png)
 
 8，前后矛盾
 
@@ -68,7 +68,7 @@
 
 然后搭配这个表情
 
-![[../assets/df74f8dc2936039fe8831b9ffac9fe2d_MD5.png]]
+![df74f8dc2936039fe8831b9ffac9fe2d_MD5](../assets/df74f8dc2936039fe8831b9ffac9fe2d_MD5.png)
 
 9，[虚空锁敌](https://www.zhihu.com/search?q=%E8%99%9A%E7%A9%BA%E9%94%81%E6%95%8C&search_source=Entity&hybrid_search_source=Entity&hybrid_search_extra=%7B%22sourceType%22%3A%22answer%22%2C%22sourceId%22%3A2839110153%7D)
 
@@ -78,7 +78,7 @@
 
 然后搭配这个表情
 
-![[../assets/9ee89b252f988a66ad923d4028046324_MD5.png]]
+![9ee89b252f988a66ad923d4028046324_MD5](../assets/9ee89b252f988a66ad923d4028046324_MD5.png)
 
 10，乐于助人
 
@@ -88,7 +88,7 @@
 
 然后搭配这个表情
 
-![[../assets/9bc42f83474b572117fa6b33887e9fd8_MD5.png]]
+![9bc42f83474b572117fa6b33887e9fd8_MD5](../assets/9bc42f83474b572117fa6b33887e9fd8_MD5.png)
 
 11，急头白脸
 
@@ -102,7 +102,7 @@
 
 然后搭配这个表情
 
-![[../assets/6dc25baf0d41a771714253cbe301d286_MD5.png]]
+![6dc25baf0d41a771714253cbe301d286_MD5](../assets/6dc25baf0d41a771714253cbe301d286_MD5.png)
 
 12，病魔的好帮手
 
@@ -110,7 +110,7 @@
 
 然后搭配这个表情
 
-![[../assets/841a861d11eccdb643f30a6ad7a8ea9f_MD5.png]]
+![841a861d11eccdb643f30a6ad7a8ea9f_MD5](../assets/841a861d11eccdb643f30a6ad7a8ea9f_MD5.png)
 
 13，斯德哥尔摩
 
@@ -118,7 +118,7 @@
 
 然后搭配这个表情
 
-![[../assets/030c1771b58de81585ab56f284db14ea_MD5.png]]
+![030c1771b58de81585ab56f284db14ea_MD5](../assets/030c1771b58de81585ab56f284db14ea_MD5.png)
 
 14，沾边贴金
 
@@ -126,7 +126,7 @@
 
 然后搭配这个表情
 
-![[../assets/2994962f0d5493fb1faf52a94303feeb_MD5.png]]
+![2994962f0d5493fb1faf52a94303feeb_MD5](../assets/2994962f0d5493fb1faf52a94303feeb_MD5.png)
 
 15，自我感动
 
@@ -134,7 +134,7 @@
 
 然后搭配这个表情
 
-![[../assets/e1e23f76b6b2442e3b184ae3543a66b5_MD5.png]]
+![e1e23f76b6b2442e3b184ae3543a66b5_MD5](../assets/e1e23f76b6b2442e3b184ae3543a66b5_MD5.png)
 
 16，[平行宇宙](https://www.zhihu.com/search?q=%E5%B9%B3%E8%A1%8C%E5%AE%87%E5%AE%99&search_source=Entity&hybrid_search_source=Entity&hybrid_search_extra=%7B%22sourceType%22%3A%22answer%22%2C%22sourceId%22%3A2839110153%7D)
 
@@ -142,7 +142,7 @@
 
 然后搭配这个表情
 
-![[../assets/ad5556f241e578a4a679d3da75a9d62c_MD5.png]]
+![ad5556f241e578a4a679d3da75a9d62c_MD5](../assets/ad5556f241e578a4a679d3da75a9d62c_MD5.png)
 
 17，天灾人祸
 
@@ -150,7 +150,7 @@
 
 然后搭配这个表情
 
-![[../assets/943bccb5f13d4c4db91c744614dbfd21_MD5.jpg]]
+![943bccb5f13d4c4db91c744614dbfd21_MD5](../assets/943bccb5f13d4c4db91c744614dbfd21_MD5.jpg)
 
 18，[杯弓蛇影](https://www.zhihu.com/search?q=%E6%9D%AF%E5%BC%93%E8%9B%87%E5%BD%B1&search_source=Entity&hybrid_search_source=Entity&hybrid_search_extra=%7B%22sourceType%22%3A%22answer%22%2C%22sourceId%22%3A2839110153%7D)
 
@@ -158,7 +158,7 @@ XXXX **是西方的阴谋！标准都在他们手上！**（XXXX 大多为环境
 
 然后搭配这个表情
 
-![[../assets/fb6a12cabcd20f601140d930b6f5d6ba_MD5.png]]
+![fb6a12cabcd20f601140d930b6f5d6ba_MD5](../assets/fb6a12cabcd20f601140d930b6f5d6ba_MD5.png)
 
 19，
 
@@ -168,7 +168,7 @@ XXXX **是西方的阴谋！标准都在他们手上！**（XXXX 大多为环境
 
 然后搭配这个表情
 
-![[../assets/0c7ab36753de902a95f4d33d6466d651_MD5.png]]
+![0c7ab36753de902a95f4d33d6466d651_MD5](../assets/0c7ab36753de902a95f4d33d6466d651_MD5.png)
 
 **ps：如果你觉得被恶心到了，那么恰恰说明在表达能力的层面上，b 站表情是相当优秀的，是一套相当实用的表情包。**
 

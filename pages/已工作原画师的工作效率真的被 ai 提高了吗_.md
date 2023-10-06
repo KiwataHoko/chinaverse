@@ -1,4 +1,4 @@
-> 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [www.zhihu.com](https://www.zhihu.com/question/600217693/answer/3026098991) ![[../assets/d86a49d84ce09074ebd3953d54bf1afb_MD5.jpg]]Subject Delta
+> 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [www.zhihu.com](https://www.zhihu.com/question/600217693/answer/3026098991) ![d86a49d84ce09074ebd3953d54bf1afb_MD5](../assets/d86a49d84ce09074ebd3953d54bf1afb_MD5.jpg)Subject Delta
 
 这个问题提的还不算差。因为到现在为止 有点水平的业内人应该都能看出来 ai 在创作上没什么探讨的空间 只能充当无目的的消遣，其余的价值就是提升流水线效率了，这也是国内几乎所有真正推行 ai 者名义上的目的。
 

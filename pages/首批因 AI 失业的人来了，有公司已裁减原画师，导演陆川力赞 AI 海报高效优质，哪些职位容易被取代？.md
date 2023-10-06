@@ -1,4 +1,4 @@
-> 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [www.zhihu.com](https://www.zhihu.com/question/593770520/answer/2970032722) ![[../assets/a268404593386705a1d1123a2fa0f960_MD5.jpg]]每日经济新闻​
+> 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [www.zhihu.com](https://www.zhihu.com/question/593770520/answer/2970032722) ![a268404593386705a1d1123a2fa0f960_MD5](../assets/a268404593386705a1d1123a2fa0f960_MD5.jpg)每日经济新闻​
 
 感悟一，中国不愧是世界上第一纯自由主义经济体，社达的一逼，要是日本我估计大概率行会会要求电影必须要用真人做海报，就像欧美片引进日本必须要吹替一样。
 

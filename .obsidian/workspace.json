@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "5fff535b6504a7f9",
+        "id": "5a2de9a70b1c398a",
         "type": "tabs",
         "children": [
           {
-            "id": "08cfef7c7c677080",
+            "id": "1d36cfde05ef3136",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "pages/霍金真的去过萝莉岛吗？.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -48,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "霍金",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pages/霍金真的去过萝莉岛吗？.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pages/霍金真的去过萝莉岛吗？.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,8 +118,16 @@
             "type": "leaf",
             "state": {
               "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "f80a7a343846c3bd",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
               "state": {
-                "file": "pages/霍金真的去过萝莉岛吗？.md"
+                "sortOrder": "frequency"
               }
             }
           }
@@ -147,13 +149,47 @@
       "obsidian-local-images-plus:Local Images Plus  0.15.7\r\nDownload media files": false
     }
   },
-  "active": "2ef69de296cf2a8d",
+  "active": "1d36cfde05ef3136",
   "lastOpenFiles": [
-    "assets/4d65604a6e5462bbdf36c76bc6f583b3_MD5.jpg",
-    "pages/霍金真的去过萝莉岛吗？.md",
-    "pages/俄罗斯是世界新纳粹的发动机，关于俄罗斯反纳粹的谎言与其中的真相（6 月 1 日）.md",
-    "pages/到底什么样的思想才是反战而不是所谓的反战败_.md",
-    "pages/“我喝大亚湾核冷却水，你喝福岛带毒核污染水”的赌约会以怎样的结局告终？.md",
-    "pages/“雷点与私货” 亚文化受众的悖论.md"
+    "pages_副本/东航坠机快一年了，你觉得事故最大可能性是什么？.md",
+    "pages_副本/“雷点与私货” 亚文化受众的悖论.md",
+    "pages/真实的印度真的像媒体所说的那样不堪么？.md",
+    "pages/中华汉字是全世界唯一可以作为艺术品挂在墙上欣赏的语言文字，你认同吗？(2).md",
+    "pages/ai 绘画对画师有没有影响.md",
+    "pages_副本/ai 绘画对画师有没有影响.md",
+    "pages/美国的民主虚伪性体现在哪？有什么事例吗？.md",
+    "pages/美国反战人士质问布林肯「若你不喜欢中国的方案，你的和平方案在哪？」后被逮捕，如何看待此事？.md",
+    "pages/“雷点与私货” 亚文化受众的悖论.md",
+    "pages/东航坠机快一年了，你觉得事故最大可能性是什么？.md",
+    "pages/到底什么样的思想才是反战而不是所谓的反战败_ 2.md",
+    "pages_副本/俄罗斯宣传部门是如何开展认知战的？.md",
+    "pages_副本/怎么反驳 “兴趣不可以当饭吃” 这种观点_.md",
+    "pages_副本/福岛第一核电站是不是继续在泄漏？.md",
+    "pages_副本/国泰航空事件是否说明了资本主义社会里工会制度的弊端.md",
+    "pages_副本/审美权到底在普通人还是艺术家手里？.md",
+    "pages_副本/如何看待上海徐汇中学女学生偷拍男浴室，男同学向老师举报反被说气量小？.md",
+    "pages_副本/如何看待网上反战不反美？.md",
+    "pages_副本/如何评价普京对列宁和布尔什维克党的若干言论_.md",
+    "pages_副本/为什么北欧国家如此富裕？.md",
+    "pages_副本/美国俄亥俄州氯乙烯泄露，居民紧急撤离，记者直播报道时被捕，具体情况如何？氯乙烯泄露有多严重？.md",
+    "pages_副本/为什么有些人老了发现「子女没出息是一种福分」？你怎么看？.md",
+    "pages_副本/中华汉字是全世界唯一可以作为艺术品挂在墙上欣赏的语言文字，你认同吗？.md",
+    "pages_副本/如果说有任何一部漫画或者文学作品违反了所谓的漫画三原则到底会不会有人看？.md",
+    "pages_副本/真的会有人觉得 ai 绘画是个好东西吗？.md",
+    "pages_副本/从一侧面杂说我朝之语言沙文主义.md",
+    "pages_副本",
+    "assets/0a9d41f98a10ee63661d28533451e2d1_MD5.jpg",
+    "a",
+    "assets",
+    "assets",
+    "assets/920685dea38126a1b8260acc3a1ad2f1_MD5.jpg",
+    "assets/ca0b5a99a3a7d8a57afc128283bf388e_MD5.jpg",
+    "assets/9e3b66fc2bf19d68965e13cabce87504_MD5.jpg",
+    "assets/d881019677dde152f2d96ce44f055225_MD5.jpg",
+    "assets/d3b720c18f2874acc76d9391023259c9_MD5.jpg",
+    "assets/4bcd49cc0e411d69a123739e7f0a308f_MD5.jpg",
+    "assets/439accfbd476820a59b6c046e7a7f33b_MD5.jpg",
+    "assets/bb8c7c8722611a39bbc2528d67349ab5_MD5.jpg",
+    "assets/ae9f573735f1671b148bb47413305dc1_MD5.png"
   ]
 }
